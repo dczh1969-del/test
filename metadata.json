@@ -1,0 +1,6 @@
+{
+  "name": "StreamHub",
+  "description": "StreamHub - Premier live streaming and video discovery platform with ultra-crisp playback, live arenas, trending game streams, and creator hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
